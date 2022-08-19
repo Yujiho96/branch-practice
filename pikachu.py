@@ -1,1 +1,2 @@
-fizzfizzfizz
+print('Pika!')
+print('Chu!)
